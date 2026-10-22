@@ -1,3 +1,5 @@
+// This salt value is used in BlowFish Encryption Algorithm to Hash Password
+
 function generateSalt(rounds = 10) {
   const randomBytes = new Uint8Array(16);
   crypto.getRandomValues(randomBytes);
