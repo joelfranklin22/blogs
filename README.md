@@ -13,13 +13,13 @@ Exploring how bcrypt generates salts, uses cost factors, hashes passwords, and v
 - [Salt Generation Example](https://github.com/joelfranklin22/blogs/blob/master/bcrypt-password-hashing/salt-generation.js)
 - [Bcrypt Step-by-Step Walkthrough](https://github.com/joelfranklin22/blogs/blob/master/bcrypt-password-hashing/bcrypt-password-hashing-walkthrough.md)
 
-## How to Read and Run the Files
+### How to Read and Run the Files
 
 - Markdown (.md) files: For a better reading experience, open them in a Markdown editor or Obsidian.
 
 - JavaScript (.js) files: Open them in Visual Studio Code to read, edit, and run the code.
 
--Running the examples: Install Node.js and the required dependencies before running the JavaScript files.
+- Running the examples: Install Node.js and the required dependencies before running the JavaScript files.
 
 ## Author
 
