@@ -10,8 +10,8 @@ This repository contains my technical articles, coding experiments, notes, and s
 
 Exploring how bcrypt generates salts, uses cost factors, hashes passwords, and verifies them during login.
 
-- [Salt Generation Example](./password-hashing/salt-generation.js)
-- [Bcrypt Step-by-Step Walkthrough](./password-hashing/bcrypt-walkthrough.md)
+- [Salt Generation Example](https://github.com/joelfranklin22/blogs/blob/master/bcrypt-password-hashing/salt-generation.js)
+- [Bcrypt Step-by-Step Walkthrough](https://github.com/joelfranklin22/blogs/blob/master/bcrypt-password-hashing/bcrypt-password-hashing-walkthrough.md)
 
 ## Topics
 
